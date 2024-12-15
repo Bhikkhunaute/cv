@@ -15,7 +15,7 @@
         "fr": {
             "welcome": "Bienvenue sur mon <span class='text-primary'>CV</span>!",
             "welcomeShort": "Bienvenue!",
-            "bio": "Avec 8 ans en tant que designer UX, j'excele dans les interfaces centrées sur l'utilisateur. Ma passion pour le design empathique me pousse à créer des expériences numériques délicieuses et innovantes. Collaborons ensemble pour créer quelque chose d'extraordinaire."
+            "bio": "Développeur Front-End passionné et polyvalent, j’ai su évoluer avec agilité entre les domaines du webdesign, du développement web et la gestion complète d’un écosystème web en tant que Webmaster à l’École Nationale de la Magistrature depuis 4 ans. <br><br>Fort d’une expertise dans la conception visuelle et technique de sites web, j’apporte une sensibilité graphique alliée à une maîtrise des outils front-end modernes, me permettant de transformer des idées en expériences utilisateur intuitives et performantes. <br><br>Aujourd’hui, je souhaite mettre mes compétences au service de projets stimulants en tant que Développeur Front-End, avec pour ambition de créer des interfaces esthétiques, fonctionnelles et adaptées aux besoins des utilisateurs."
         },
 
         "zh": {
@@ -27,8 +27,6 @@
 
     "items": {
         "socialCircles": [
-            "@link{profile.contact.instagram}",
-            "@link{profile.contact.facebook}",
             "@link{profile.contact.linkedin}",
             "@link{profile.contact.github}"
         ],

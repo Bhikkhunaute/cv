@@ -1,6 +1,6 @@
 {
-    "name": "Jonas Einstein",
-    "profilePictureUrl": "images/pictures/avatar.png",
+    "name": "Victor PRUDHON",
+    "profilePictureUrl": "images/pictures/victor.jpg",
 
     "locales": {
         "en": {
@@ -27,24 +27,24 @@
     "contact": {
         "address": {
             "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
-            "valueShort": "Cupertino, CA 01234",
+            "value": "12 rue Banlin, Lormont, 33310",
+            "valueShort": "Lormont, 33310",
             "faIcon": "fa-solid fa-city",
             "href": null
         },
 
         "email": {
             "id": "email",
-            "value": "jonas.einstein@genius.com",
-            "valueShort": "jonas.einstein@genius.com",
+            "value": "prudhon.victor.pro@gmail.com",
+            "valueShort": "prudhon.victor.pro@gmail.com",
             "faIcon": "fa-solid fa-envelope",
-            "href": "mailto:jonas.einstein@genius.com"
+            "href": "mailto:prudhon.victor.pro@gmail.com"
         },
 
         "facebook": {
             "id": "facebook",
-            "value": "Jonas Einstein",
-            "valueShort": "J. Einstein",
+            "value": "",
+            "valueShort": "",
             "faIcon": "fa-brands fa-facebook",
             "href": "https://facebook.com"
         },
@@ -75,8 +75,8 @@
 
         "phone": {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "0682799582",
+            "valueShort": "0682799582",
             "faIcon": "fa-solid fa-phone",
             "href": "tel:1234567890"
         }

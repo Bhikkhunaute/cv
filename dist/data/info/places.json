@@ -1,25 +1,33 @@
 {
-    "adobe": {
-        "logoUrl": "images/places/logo-adobe.png",
+    "VP": {
+        "logoUrl": "images/places/logo-VP.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Adobe Inc."}
+            "fr": {"name": "Auto-entrepreneur"}
         }
     },
 
-    "apple": {
-        "logoUrl": "images/places/logo-apple.png",
+    "CSE": {
+        "logoUrl": "images/places/logo-cse.jpeg",
         "faIcon": "fab fa-apple",
         "locales": {
-            "en": {"name": "Apple Inc."}
+            "fr": {"name": "Enjoy Mon CSE"}
         }
     },
 
-    "coursera": {
-        "logoUrl": "images/places/logo-coursera.png",
+    "ENM": {
+        "logoUrl": "images/places/logo-enm.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Coursera"}
+            "fr": {"name": "École nationale de la magistrature"}
+        }
+    },
+
+    "Mediatheques": {
+        "logoUrl": "images/places/logo-mediatheques.jpg",
+        "faIcon": "fa-solid fa-newspaper",
+        "locales": {
+            "fr": {"name": "Médiathèque Marie Rouanet"}
         }
     },
 
@@ -27,7 +35,7 @@
         "logoUrl": null,
         "faIcon": "fa-solid fa-newspaper",
         "locales": {
-            "en": {"name": "Forbes"}
+            "fr": {"name": "Forbes"}
         }
     },
 
@@ -35,7 +43,7 @@
         "logoUrl": null,
         "faIcon": "fab fa-google",
         "locales": {
-            "en": {"name": "Google"}
+            "fr": {"name": "Google"}
         }
     },
 
