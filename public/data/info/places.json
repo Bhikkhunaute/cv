@@ -16,7 +16,7 @@
     },
 
     "ENM": {
-        "logoUrl": "images/places/logo-enm.png",
+        "logoUrl": "images/places/logo-enm2.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
             "fr": {"name": "École nationale de la magistrature"}
@@ -24,64 +24,26 @@
     },
 
     "Mediatheques": {
-        "logoUrl": "images/places/logo-mediatheques.jpg",
+        "logoUrl": "images/places/logo-matelles.svg",
         "faIcon": "fa-solid fa-newspaper",
         "locales": {
             "fr": {"name": "Médiathèque Marie Rouanet"}
         }
     },
 
-    "forbes": {
-        "logoUrl": null,
-        "faIcon": "fa-solid fa-newspaper",
-        "locales": {
-            "fr": {"name": "Forbes"}
-        }
-    },
-
-    "google": {
-        "logoUrl": null,
-        "faIcon": "fab fa-google",
-        "locales": {
-            "fr": {"name": "Google"}
-        }
-    },
-
-    "harvard": {
-        "logoUrl": "images/places/logo-harvard.png",
+   "iutbeziers": {
+        "logoUrl": "images/places/logo-iut.jpeg",
         "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "Harvard University"},
-            "es": {"name": "Universidad de Harvard"},
-            "fr": {"name": "Université Harvard"},
-            "zh": {"name": "哈佛大学"}
+            "fr": {"name": "IUT Béziers"}
         }
     },
-
-    "paris": {
-        "logoUrl": "images/places/logo-paris-university.png",
+    "UM2": {
+        "logoUrl": "images/places/logo-um2.jpeg",
         "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "University of Paris"},
-            "es": {"name": "Universidad de París"},
-            "fr": {"name": "Université de Paris"},
-            "zh": {"name": "巴黎大学"}
-        }
-    },
-
-    "udacity": {
-        "logoUrl": "images/places/logo-udacity.png",
-        "faIcon": "fa fa-house-laptop",
-        "locales": {
-            "en": {"name": "Udacity"}
-        }
-    },
-
-    "uxStudio": {
-        "logoUrl": "images/places/logo-ux-studio.png",
-        "faIcon": "fas fa-paint-brush",
-        "locales": {
-            "en": {"name": "UX Masters Studio"}
+            "fr": {"name": "Université de Montpellier"}
         }
     }
+
 }

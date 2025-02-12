@@ -9,54 +9,57 @@
     "items": [
         {
             "id": "experience_item_1",
-            "place": "@link{places.ENM}",
-            "period": ["2015/01", "2017/12"],
+            "place": "@link{places.Mediatheques}",
+            "period": ["2018/03", "2018/12"],
             "locales": {
+               
                 "fr": {
-                    "title": "Designer UX",
-                    "description": "Contribué à la conception d'interfaces d'applications web intuitives et conviviales, créant ainsi des expériences utilisateur engageantes et fluides. Collaboré étroitement avec des équipes pluridisciplinaires et des parties prenantes pour garantir que les designs soient alignés sur les objectifs commerciaux et les besoins des utilisateurs.",
-                    "tags": ["Figma", "Maquettes", "Prototypage", "Design Responsive", "Recherche Utilisateur"]
+                    "title": "Webmaster - Webdesigner",
+                    "description": "Lors de mon service civique en médiathèque, j’ai piloté la refonte du site internet en collaboration avec un prestataire externe et assuré sa maintenance. J’ai également contribué activement à la vie locale en mettant mes compétences numériques au service des habitants : ateliers d’initiation pour les enfants, cours de programmation pour les plus âgés et accompagnement des personnes en difficulté face au numérique. En parallèle, j’ai conçu des supports graphiques (affiches, visuels) pour promouvoir les événements de la médiathèque.",
+                    "tags": ["Gestion de projet", "Maintenance web", "Formation numérique", "Inclusion digitale", "Webdesign", "Communication visuelle"]
                 }
             }
         },
 
         {
             "id": "experience_item_2",
-            "place": "@link{places.CSE}",
-            "period": ["2018/01", "2020/08"],
+            "place": "@link{places.VP}",
+            "period": ["2017/09", "2020/01"],
             "locales": {
+              
                 "fr": {
-                    "title": "Designer UI/UX Senior",
-                    "description": "A piloté les initiatives UX en supervisant une équipe de concepteurs, en élaborant des stratégies de conception et en dirigeant des collaborations interfonctionnelles avec les responsables de produits, les ingénieurs et les cadres. Axé sur la création de designs centrés sur l'utilisateur alignés sur les objectifs commerciaux et aboutissant à une satisfaction accrue des utilisateurs.",
-                    "tags": ["Figma", "Adobe XD", "Sketch", "Conception Basée sur les Données"]
+                    "title": "Designer UX Principal",
+                    "description": "En tant que Freelance, j’ai réalisé de nombreuses missions axées sur le développement de sites web sous WordPress, en assurant leur conception, intégration et optimisation. J’ai également conçu des maquettes web, newsletters et campagnes numériques, tout en produisant divers supports graphiques (logos, affiches). En parallèle, j’ai géré l’ensemble de mon activité, de la relation client à la gestion de projet, en garantissant des livrables adaptés aux besoins et aux exigences techniques.",
+                    "tags": ["WordPress", "HTML/CSS", "Webdesign", "UX/UI", "Gestion de projet", "Marketing digital"]
                 }
             }
         },
 
         {
             "id": "experience_item_3",
-            "place": "@link{places.VP}",
-            "period": ["2020/09", "2022/09"],
+            "place": "@link{places.CSE}",
+            "period": ["2020/03", "2020/09"],
             "locales": {
-              
                 "fr": {
-                    "title": "Designer UX Principal",
-                    "description": "A piloté les initiatives UX en supervisant une équipe de concepteurs, en élaborant des stratégies de conception et en dirigeant des collaborations interfonctionnelles avec les responsables de produits, les ingénieurs et les cadres. Axé sur la création de designs centrés sur l'utilisateur alignés sur les objectifs commerciaux et aboutissant à une satisfaction accrue des utilisateurs.",
-                    "tags": ["Sketch", "Adobe XD", "InVision", "Stratégie de Conception", "Collaboration Interfonctionnelle"]
+                    "title": "Chef de projet web",
+                    "description": "En tant que Chef de Projet Web chez EnjoyMonCSE, j’ai développé et paramétré des sites clients tout en formant les utilisateurs à la solution. Impliqué dans le développement du logiciel, j’ai contribué aux sprints en apportant mon expertise front-end pour améliorer l’interface et l’expérience utilisateur. Mon rôle alliait gestion de projet, développement et accompagnement des utilisateurs pour assurer une adoption optimale de la plateforme.",
+                    "tags": ["Angular", "JavaScript", "Développement Front-End", "Gestion de projet", "Formation", "Agile/Scrum"]
                 }
             }
         },
 
+        
+
+        
         {
             "id": "experience_item_4",
-            "place": "@link{places.Mediatheques}",
+            "place": "@link{places.ENM}",
             "period": ["2021/03", "now"],
             "locales": {
-               
                 "fr": {
                     "title": "Webmaster",
-                    "description": "J'ai mis à profit mon expertise en conception UX pour éduquer et inspirer les étudiants dans l'art des principes de conception centrés sur l'utilisateur. J'ai réalisé des études utilisateur, analysé des données et guidé les étudiants dans l'application des connaissances théoriques à des projets pratiques, donnant ainsi les moyens à la prochaine génération de concepteurs UX.",
-                    "tags": ["Adobe XD", "Sketch", "Axure", "Mentorat Éducatif"]
+                    "description": "En tant que Webmaster à l’ENM depuis 4 ans, j’ai conçu et développé des sites, modules et landing pages en optimisant leur performance et accessibilité. J’ai piloté des projets numériques, modernisé l’écosystème web et mis en place des bonnes pratiques SEO et de performance. Mon expertise en développement front-end m’a permis d’intégrer des solutions évolutives, d’automatiser des workflows et d’améliorer l’expérience utilisateur grâce à des interfaces optimisées.",
+                    "tags": ["Vue.js", "JavaScript", "Performance Web", "SEO", "Responsive Design", "Gestion de projet"]
                 }
             }
         }
