@@ -9,8 +9,21 @@
     },
 
     "items": [
+        
         {
-            "id": "masters_iutbeziers",
+            "id": "university_UM2",
+            "place": "@link{places.UM2}",
+            "period": ["2012/9", "2014/07"],
+
+            "locales": {
+
+                "fr": {
+                    "title": "Licence, Mathématiques et informatique ",
+                    "description": ""
+                }
+            }
+        },{
+            "id": "degree_iutbeziers",
             "place": "@link{places.iutbeziers}",
             "period": ["2014/9", "2016/07"],
 
@@ -19,19 +32,6 @@
                 "fr": {
                     "title": "DUT Métiers du multimédia et de l'informatique",
                     "description": "Top 5 de la promotion."
-                }
-            }
-        },
-        {
-            "id": "masters_UM2",
-            "place": "@link{places.UM2}",
-            "period": ["2012/9", "2015/03"],
-
-            "locales": {
-
-                "fr": {
-                    "title": "Licence, Mathématiques et informatique ",
-                    "description": ""
                 }
             }
         }
