@@ -52,7 +52,7 @@
             "locales": {
                 "en": {"title": "Bonus Skills"},
                 "es": {"title": "Habilidades Adicionales"},
-                "fr": {"title": "Plus Habiletés"},
+                "fr": {"title": "Savoir faire supplémentaire"},
                 "zh": {"title": "附加技能"}
             }
         }
@@ -250,7 +250,7 @@
                 "faIcon": null,
                 "value": null,
                 "locales": {
-                    "fr": {"title": "Connaissance des CMS (WordPress, Drupal, sharepoint)", "description": "CComprendre le fonctionnement des CMS facilite l’intégration et l’optimisation des contenus dans des projets web variés."}
+                    "fr": {"title": "Connaissance des CMS (WordPress, Drupal, sharepoint)", "description": "Comprendre le fonctionnement des CMS facilite l’intégration et l’optimisation des contenus dans des projets web variés."}
                 }
             }
             
